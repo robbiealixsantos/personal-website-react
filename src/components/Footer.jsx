@@ -5,7 +5,7 @@ class Footer extends Component {
         return (
             <footer>
             <div className="container text-center">
-                <p>Copyright &copy; Robbie Santos - 2019</p>
+                <p>Copyright &copy; Robbie Santos - {new Date().getFullYear()}</p>
                 <p>This page was made with React <img alt="react logo" src="/assets/img/logo.png"/></p>
             </div>
         </footer>
