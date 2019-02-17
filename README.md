@@ -1,7 +1,10 @@
 Personal Website
 =====================
 
-Originally hosted on heroku and written in HTML5/CSS using a Bootstrap theme. Switched code over to React and deploying on Netflify
+Originally hosted on heroku and written in HTML5/CSS using a Bootstrap theme (https://robbie-santos.herokuapp.com/index.html). Switched code over to React and deploying on Netflify
+
+https://elastic-stonebraker-e63e9e.netlify.com
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
