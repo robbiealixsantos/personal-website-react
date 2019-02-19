@@ -1,4 +1,4 @@
-Personal Website
+Personal Website [![Netlify Status](https://api.netlify.com/api/v1/badges/ef5de168-0b33-4856-94db-5ef7a22cbc8f/deploy-status)](https://app.netlify.com/sites/elastic-stonebraker-e63e9e/deploys)
 =====================
 
 Originally hosted on heroku and written in HTML5/CSS using a Bootstrap theme (https://robbie-santos.herokuapp.com/index.html). Switched code over to React and deploying on Netflify
