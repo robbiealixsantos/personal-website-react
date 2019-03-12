@@ -9,8 +9,8 @@ class IntroHeader extends Component {
                 <div className="row">
                     <div id="aboutContainerDiv" className="col-md-8 col-md-offset-2">
                         <h1 className="brand-heading">Hi, my name is <b>Robbie Santos.</b></h1>
-                        <p className="intro-text">I'm a Full Stack Web Developer living in the Bay Area.</p>
-                            <p>I'm passionate about intuitive, clean, and innovative applications</p>
+                        <p className="intro-text">I'm a Web Developer living in the Bay Area.</p>
+                            <p>I'm passionate about using unique perspectives to deliver valuable solutions.</p>
                         <a href="#about" id="aboutPageScroll" className="btn btn-circle page-scroll">
                             <i className="fa fa-angle-double-down animated"></i>
                         </a>
