@@ -14,7 +14,7 @@ class ProjectsAndResume extends Component {
                         <a href="https://nostalgic-bhabha-63c0a7.netlify.com/" className="btn btn-default btn-lg">Tosche Station v1 - React App</a>
                         <a href="https://github.com/robbiealixsantos/personal-website-react" className="btn btn-default btn-lg">Github code for this Website - React Conversion from HTML5/CSS/Bootstrap theme</a>
                         <a href="https://github.com/robbiealixsantos/restricted-call-dates" className="btn btn-default btn-lg">Restricted Call Dates - Nuget package for Contact Center TCPA & DNC Compliance</a>
-                        <a href="https://drive.google.com/file/d/1Ec4JD_btH7kkLIjtDSZDUFXgzgbbFS5U/view?usp=sharing" className="btn btn-default btn-lg">Resume</a>
+                        <a href="https://drive.google.com/file/d/0BzYK0mNiCUWsS2oxLXpDSm41T0U/view?usp=sharing" className="btn btn-default btn-lg">Resume</a>
                     </div>
                 </div>
             </div>
